@@ -1,4 +1,4 @@
 # LeoCassio89.github.io
 Soy el Chicken Casillas
 
-\nEsta es mi pagina de informacion
+Esta es mi pagina de informacion
